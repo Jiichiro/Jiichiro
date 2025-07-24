@@ -61,9 +61,9 @@ pakai **VS Code**, deploy via **Vercel**, dan CLI jadi sahabat 😎
 
 <!-- Footer chill vibes -->
 <p align="center">
-  <img src="https://i.ibb.co/0V1sVHX/snow-scene.png" width="100%" alt="winter snow footer" />
+  <i>Thanks udah mampir! Jangan lupa ⭐ kalau suka project gua.</i>
 </p>
 
 <p align="center">
-  <i>Thanks udah mampir! Jangan lupa ⭐ kalau suka project gua.</i>
+  <img src="https://raw.githubusercontent.com/Jiichiro/Jiichiro/refs/heads/main/snow-hill-tree-covered-header-260nw-2226714535-removebg-preview.png" width="100%" alt="winter snow footer" />
 </p>
