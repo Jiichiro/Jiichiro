@@ -1,67 +1,72 @@
-<!-- Header animasi clean -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFA1&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+JI+(jiichiro);Next.js+Web+Developer;Coding+my+way+every+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFA1&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+JI;Full-Stack+Web+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
+</p>
+
+<h1 align="center">JI</h1>
+
+<p align="center">
+  Full-Stack Web Developer focused on building modern, scalable, and maintainable web applications with the JavaScript ecosystem.
 </p>
 
 ---
 
-## 👨‍💻 Tentang Gue
+## About Me
 
-Halo! Gue **jiichiro**, seorang web developer dari Indonesia.  
-Sekarang gue lagi fokus ngulik **Next.js**, tapi gue juga suka nyicipin tools & framework baru yang lagi hype.
+I'm a web developer from Indonesia with a strong interest in modern web technologies and software engineering.
 
----
-
-## 🔧 Teknologi yang Gua Pakai
-
-- **Frontend:** Next.js, React, Tailwind CSS  
-- **Backend:** Node.js, Prisma, SQLite / MySQL  
-- **Tools:** Git, Vercel, Postman  
-- **Learning:** Auth, Server Actions, Fullstack pattern
+Currently, my primary focus is **Next.js**, while continuously expanding my knowledge in backend development, system architecture, and new programming technologies.
 
 ---
 
-## 📊 Statistik GitHub
+## Tech Stack
+
+### Frontend
+- Next.js
+- React
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Prisma
+- MySQL
+- SQLite
+
+### Tools
+- Git
+- GitHub
+- Vercel
+- Postman
+
+### Currently Learning
+- Authentication & Authorization
+- Server Actions
+- Full-Stack Architecture
+- Software Design Patterns
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiichiro&show_icons=true&theme=tokyonight&hide_title=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jiichiro&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jiichiro&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jiichiro&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📂 3 Repo Terbaru
+## Development Environment
 
-<!-- Gunakan GitHub Action untuk auto update -->
-<!-- Atau update manual kalau belum mau setup action -->
-
-- 🔗 [NamaRepo1](https://github.com/jiichiro/NamaRepo1) — deskripsi singkat  
-- 🔗 [NamaRepo2](https://github.com/jiichiro/NamaRepo2) — deskripsi singkat  
-- 🔗 [NamaRepo3](https://github.com/jiichiro/NamaRepo3) — deskripsi singkat  
-
-> ✨ Diupdate manual, bisa juga otomatis pakai GitHub Actions (mau gua bantu setup juga bisa)
+- Linux
+- VS Code
+- Git & GitHub
+- Vercel
 
 ---
 
-## 🌍 Sosial Media
-
-- [Instagram](https://instagram.com/username)
-- [Facebook](https://facebook.com/username)
-- [TikTok](https://tiktok.com/@username)
-
----
-
-## 🧰 Sistem & Tools
-
-Gue biasa ngoding di Fedora Linux,  
-pakai **VS Code**, deploy via **Vercel**, dan CLI jadi sahabat 😎
-
----
-
-<!-- Footer chill vibes -->
 <p align="center">
-  <i>Thanks udah mampir! Jangan lupa ⭐ kalau suka project gua.</i>
+  Thanks for visiting my profile.
 </p>
 
 <p align="center">
