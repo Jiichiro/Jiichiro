@@ -3,11 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFA1&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+JI;Full-Stack+Web+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
 </p>
 
-<h1 align="center">JI</h1>
+<!-- <h1 align="center">JI</h1>
 
 <p align="center">
   Full-Stack Web Developer focused on building modern, scalable, and maintainable web applications with the JavaScript ecosystem.
-</p>
+</p> -->
 
 ---
 
